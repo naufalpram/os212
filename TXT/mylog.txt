@@ -7,3 +7,4 @@ ZCZC W00  5 L06 Read an article about what defines an operating system on Mr.Rah
 ZCZC W00 40 L80 Watched a video titled "Linux Sucks 2021, The end of Linux is nigh"
 ZCZC W00 60 L70 DAA discussion on Scele Forum
 ZCZC W00 30 L82 Searching papers and journals for DAA final paper assignment
+ZCZC W00 30 L04 Adding index page and styling my github page
