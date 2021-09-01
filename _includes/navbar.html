@@ -1,1 +1,28 @@
+<style>
+  .navbar {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #A0C1D1;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
 
+  .navbar div{
+    padding: 8px;
+  }
+
+  .navbar div a {
+    text-decoration: none;
+    color: darkblue;
+  }
+  
+  .navbar div a:hover {
+    background-color: #232C33;
+  }
+</style>
+
+<div class="navbar">
+  <div><a href='{{ site.baseurl }}/'>HOME</a></div>
+  <div><a href='{{ site.baseurl }}/TXT/mylog.txt'>LOG</a></div>
+  <div><a href='{{ site.urlgithub }}'>GitHub</a></div>
+</div>
