@@ -1,0 +1,15 @@
+# Inspired by cbkadal's repo
+
+title:       "Operating Systems 2021-2 (Odd Semester 2021/2022)"
+description: "Hello there!"
+author:           "Naufal Pramudya Yusuf"
+address:          "Jaksel"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://naufalpram.github.io/os212/"
+urlgithub:        "https://github.com/naufalpram/os212/"
+urlghpage:        "https://naufalpram.github.io/os212/"
+keywords:         "jekyll, testing"
+github:           [metadata]
