@@ -8,3 +8,5 @@ ZCZC W00 40 L80 Watched a video titled "Linux Sucks 2021, The end of Linux is ni
 ZCZC W00 60 L70 DAA discussion on Scele Forum
 ZCZC W00 30 L82 Searching papers and journals for DAA final paper assignment
 ZCZC W00 30 L04 Adding index page and styling my github page
+ZCZC W00 20 L70 RPL Forum Discussion
+ZCZC W00 60 L73 Playing games for refreshing
