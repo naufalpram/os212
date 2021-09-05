@@ -10,3 +10,5 @@ ZCZC W00 30 L82 Searching papers and journals for DAA final paper assignment
 ZCZC W00 30 L04 Adding index page and styling my github page
 ZCZC W00 20 L70 RPL Forum Discussion
 ZCZC W00 60 L73 Playing games for refreshing
+ZCZC W00 40 L32 Watching OS Visual Metaphor by Udacity on Youtube
+ZCZC W00 30 L06 Reading chapter 1 of OS concepts ppt from https://www.os-book.com/OS10/slide-dir/
