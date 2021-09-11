@@ -26,3 +26,6 @@ ZCZC W01 30 L15 Assignment #05: SSH Keys and cloning my os212 github repo
 ZCZC W01 20 L24 Trying bash commands
 ZCZC W01 45 L16 Assignment #06: Creating links
 ZCZC W01 20 L17 Assignment #07: Updating my log
+ZCZC W01 30 L18 Assignment #08: Trying out awk, sed, etc.
+ZCZC W01 20 L00 Searching articles and videos to be added to my links
+ZCZC W01 25 L19 Read OSC10 slides chapter 1, 2, 18
