@@ -12,3 +12,17 @@ ZCZC W00 20 L70 RPL Forum Discussion
 ZCZC W00 60 L73 Playing games for refreshing
 ZCZC W00 40 L32 Watching OS Visual Metaphor by Udacity on Youtube
 ZCZC W00 30 L06 Reading chapter 1 of OS concepts ppt from https://www.os-book.com/OS10/slide-dir/
+ZCZC W01  5 L05 Quiz Week 1
+ZCZC W01 60 L02 Week 1 Assistance with TA
+ZCZC W01 60 L70 DAA forum discussion on Scele
+ZCZC W01 40 L70 MPPI team discussion for final paper
+ZCZC W01 10 L11 Assignment #01: Preparing virtualbox, putty, winscp
+ZCZC W01 15 L12 Assignment #02: Importing OVA
+ZCZC W01 90 L80 Watching recorded assistance session with TA
+ZCZC W01 30 L13 Assignment #03: Reading about bash commands, nano text editor, vim
+ZCZC W01 30 L14 Assignment #04: Dressing up my Virtual Guest
+ZCZC W01 60 L73 Playing games for refreshing
+ZCZC W01 30 L15 Assignment #05: SSH Keys and cloning my os212 github repo
+ZCZC W01 20 L24 Trying bash commands
+ZCZC W01 45 L16 Assignment #06: Creating links
+ZCZC W01 20 L17 Assignment #07: Updating my log
