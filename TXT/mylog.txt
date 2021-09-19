@@ -1,6 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
 ZCZC W00 30 L04 Set up my Github Page
 ZCZC W00 15 L06 Read slides OS00
 ZCZC W00  5 L06 Read an article about what defines an operating system on Mr.Rahmat's web
@@ -29,3 +30,24 @@ ZCZC W01 20 L17 Assignment #07: Updating my log
 ZCZC W01 30 L18 Assignment #08: Trying out awk, sed, etc.
 ZCZC W01 20 L00 Searching articles and videos to be added to my links
 ZCZC W01 25 L19 Read OSC10 slides chapter 1, 2, 18
+ZCZC W02 90 L02 Zoom Class
+ZCZC W02 30 L05 Quiz Week 2
+ZCZC W02 20 L32 Watching videos about OS security and protection
+ZCZC W02 20 L12 Assignment #02: Trying out C-language scripts
+ZCZC W02 90 L13 Assignment #03: part 1
+ZCZC W02 60 L70 DAA forum discussion
+ZCZC W02 20 L06 Searching about GnuPG
+ZCZC W02 20 L70 RPL group presentation
+ZCZC W02 90 L13 Assignment #03: part 2
+ZCZC W02 60 L73 Playing games for refreshing
+ZCZC W02 15 L14 Assignment #04: Generate GPG key pair
+ZCZC W02  5 L15 Assignment #05: List of GPG keys
+ZCZC W02  5 L16 Assignment #06: Importing ospubkey.txt
+ZCZC W02  5 L17 Assignment #07: Signing the OS public key
+ZCZC W02 10 L18 Assignment #08: Exporting my public key
+ZCZC W02 40 L70 Doing Sistem Interaksi Assignments
+ZCZC W02 30 L11 Assignment #01: Read OSC10
+ZCZC W02 30 L19 Assignment #09: Updating my links
+ZCZC W02 10 L09 Assignment #10: Review my peer links
+ZCZC W02 20 L09 Assignment #11: Making my own simple and useful bash script
+ZCZC W02 10 L09 Assignment #13: Write myscript.sh to generate SHA256SUM and SHA256SUM.asc
