@@ -59,3 +59,18 @@ to be easily shared across an insecure network. Here i present to you a useful a
 The main reason that encryption still exists and is widely used today is to protect user's communications, data , and 
 privacy. Moreover, with today's ongoing security breaches, 0-day vulnerabilities, malicious exploit attempts, and 
 password being sold on the dark web, makes your security more important than ever. More on that, read this article!
+
+# File System
+- [Unix/Linux - File System Basics](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
+A file system is a logical collection of files on a partition or disk. A partition is a container for 
+information and can span an entire hard drive if desired. Your hard drive can have various partition 
+which usually contain only one file system. In this website, you'll learn the most basic things 
+about file system.
+- [10 Essential Linux Commands For Navigating File System](https://www.lifewire.com/linux-commands-for-navigating-file-system-4027320)<br>
+Linux has a lot of commands that could help our work on a daily basis. Some of them can help you 
+navigate through your file system. You may have known some of these commands, but do you really know their functionality? 
+Check this webpage!
+- [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4&ab_channel=Fireship)<br>
+The Linux file system is a cryptic labyrinth of directories defined by the file system hierarchy standard. 
+This video explain to you all those important directories in just 100 seconds! Yup, this is for you, 
+lazy people!

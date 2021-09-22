@@ -51,3 +51,20 @@ ZCZC W02 30 L19 Assignment #09: Updating my links
 ZCZC W02 10 L09 Assignment #10: Review my peer links
 ZCZC W02 20 L09 Assignment #11: Making my own simple and useful bash script
 ZCZC W02 10 L09 Assignment #13: Write myscript.sh to generate SHA256SUM and SHA256SUM.asc
+ZCZC W03 90 L02 Zoom Class
+ZCZC W03 30 L05 Quiz Week 3
+ZCZC W03 20 L32 Watching videos about Linux file system
+ZCZC W03 30 L70 MPPI Forum and Weekly Reflection
+ZCZC W03 15 L14 Assignment #04: Checking my bash aliases
+ZCZC W03 30 L15 Assignment #05: Creating and managing my extra virtual disk
+ZCZC W03 45 L06 Searching articles and webpage about file systems
+ZCZC W03 60 L73 Playing games for refreshing
+ZCZC W03 40 L16 Assignment #06: Updating my links
+ZCZC W03 15 L17 Assignment #07: Review my peer links
+ZCZC W03 40 L70 DAA Forum and Weekly Reflection
+ZCZC W03 30 L11 Assignment #01: Read OSC10
+ZCZC W03 30 L12 Assignment #02: Try demos
+ZCZC W03 60 L80 Watching youtube
+ZCZC W03 20 L13 Assignment #03
+ZCZC W03 20 L18 Assignment #08: Updating my log
+ZCZC W03 15 L19 Assignment #09: Submit my Week 03 Assignments
