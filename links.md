@@ -74,3 +74,17 @@ Check this webpage!
 The Linux file system is a cryptic labyrinth of directories defined by the file system hierarchy standard. 
 This video explain to you all those important directories in just 100 seconds! Yup, this is for you, 
 lazy people!
+
+# Memory Management
+- [Memory Management in OS: Contiguous, Swapping, Fragmentation](https://www.guru99.com/os-memory-management.html)<br>
+What is memory management? why do we use it? what are the techniques on how memory being managed? How do data being 
+allocated in our memory? This website gives you full on explanation about memory management. Make sure to check it 
+out!
+- [Paging in Operating System - Memory Management](https://www.youtube.com/watch?v=pJ6qrCB8pDw&ab_channel=SimpleSnippets)<br>
+When multitasking comes to picture, your Random Access Memory (RAM) or your primary memory will be full of running 
+application. Especially whem doing complex, heavy task such as gaming and graphic intensive application, it will 
+take up more RAM and processing so your computer will need to manage your memory. This video explained how and why 
+paging is one of the method in which you can manage your memory efficiently.
+- [What is Address Binding?](https://www.techwalla.com/articles/what-is-address-binding)<br>
+If you don't have time to read a pages of slides or books on address binding, this article will be a good quick read 
+to introduce you about address binding and its relation to memory management!
