@@ -88,3 +88,19 @@ paging is one of the method in which you can manage your memory efficiently.
 - [What is Address Binding?](https://www.techwalla.com/articles/what-is-address-binding)<br>
 If you don't have time to read a pages of slides or books on address binding, this article will be a good quick read 
 to introduce you about address binding and its relation to memory management!
+
+# Virtual Memory
+-[What is Virtual Memory? - Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ&ab_channel=AndroidAuthority)<br>
+What is virtual memory? Where is virtual memory? Why is virtual memory? In this video, Gary explain the basics, 
+the surface of virtual memory in just 11 minutes!
+- [A Comparison of Three Page Replacement Algorithms](https://www.mcser.org/journal/index.php/ajis/article/download/7405/7089#:~:text=LRU%20resulted%20to%20be%20the,is%20placed%20at%20the%20rear.)<br>
+Over the years, a lot of algorithm have been developed to find the best and fastest way to execute the page replacement 
+process in a computer memory. The First-In-First-Out, Least Frequently Used, and Optimal Algorithm are Three of many 
+known algorithm to this date. But which one is the fastest and have the most efficient performance if we compare them? 
+you can read this journal if you're curious!
+- [What is Thrash?](https://www.javatpoint.com/what-is-thrash#:~:text=Thrashing%20is%20when%20the%20page,to%20be%20reduced%20or%20negligible.)<br>
+When a process accesses a memory page without proper preparations or when it access data or code in its space address 
+but is not currently located in the system RAM, a page fault occurs. When a page fault happens, the OS will try to 
+fetch that page from secondary memory and try to swap it with one of the pages in RAM. This process is called swapping. 
+When the page fault and swapping happens very frequently at a high rate, the OS needs to spend more time swaping these 
+pages. Are you curious what this state is all about? just click the article above!
