@@ -104,3 +104,17 @@ but is not currently located in the system RAM, a page fault occurs. When a page
 fetch that page from secondary memory and try to swap it with one of the pages in RAM. This process is called swapping. 
 When the page fault and swapping happens very frequently at a high rate, the OS needs to spend more time swaping these 
 pages. Are you curious what this state is all about? just click the article above!
+
+# Process and Threads
+- [Process vs Thread by Udacity](https://www.youtube.com/watch?v=Dhf-DYO1K78&ab_channel=Udacity)<br>
+Diving into the operating system world, we surely will encounter terms such as process and threads. Check out this 
+video to differentiate between these two terms! OR you could watch this [other video](https://www.youtube.com/watch?v=O3EyzlZxx3g&ab_channel=Udacity) 
+if you need an explanation in simpler analogy. Both of those videos were made by Udacity!
+- [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+The fork() function is the primary method of process creation on Unix-like operation. This function creates a copy 
+called a *child* out of the original process, which is called the *parent*. Note that the fork() function only works 
+on Linux or Unix based operating system. You should check out this article for more interesting info about fork!
+- [Operating System Scheduling Algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)<br>
+In some CPU, only 1 process is allowed to run at a time. So how are those processes can be run by the CPU sequentially? 
+The Process Scheduler comes for to the rescue! It schedules different processes to be assigned to the CPU based on 
+particular scheduling algorithms. Hmm, i wonder what kind of algorithm it used...

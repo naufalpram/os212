@@ -101,3 +101,21 @@ ZCZC W05 60 L73 Playing games with friends
 ZCZC W05 15 L18 Assignment #08: Updating my log
 ZCZC W05  5 L19 Assignment #09: Submit my Week 05 Assignments
 ZCZC W05 60 L70 LK and Group Project Sister
+ZCZC W06 90 L02 Zoom Class
+ZCZC W06 30 L05 Quiz Week 6
+ZCZC W06 30 L11 Assignment #01: Read OSC10
+ZCZC W06 20 L12 Assignment #02: trying out demos
+ZCZC W06 30 L06 Searching articles and videos on process and threads
+ZCZC W06 60 L80 Watching youtube
+ZCZC W06 15 L06 Read article about fork function
+ZCZC W06 10 L14 Assignment #04: Observing Fork()
+ZCZC W06 30 L16 Assignment #05: Updating my links
+ZCZC W06 15 L17 Assignment #07: Reviewing my peer links
+ZCZC W06 60 L70 RPL Group Assignment
+ZCZC W06 30 L70 MPPI and DAA Scele Forum
+ZCZC W06 30 L13 Assignment #03: Reading previous midterm problems
+ZCZC W06 60 L73 Playing games with friends
+ZCZC W06 15 L18 Assignment #08: Updating my log
+ZCZC W06  5 L19 Assignment #09: Submit my Week 06 Assignments
+ZCZC W06 60 L70 LK and Group Project Sister
+
