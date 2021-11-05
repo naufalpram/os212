@@ -118,3 +118,14 @@ on Linux or Unix based operating system. You should check out this article for m
 In some CPU, only 1 process is allowed to run at a time. So how are those processes can be run by the CPU sequentially? 
 The Process Scheduler comes for to the rescue! It schedules different processes to be assigned to the CPU based on 
 particular scheduling algorithms. Hmm, i wonder what kind of algorithm it used...
+
+# Process Synchronization
+- [Process Synchronization - Operating Systems](https://www.youtube.com/watch?v=eKKc0d7kzww&ab_channel=in5minutes)<br>
+In Operating System, it is often that multiple process tried to access the same data in a shared memory. So, we need 
+someway to coordinate those accesses with synchronization. This 5 minute video should be useful for those of you 
+lazy people to understand the basic of this problem!
+- [Deadlock, Livelock, and Starvation](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
+Many times in Operating System, more than one process may compete for a finite set of resources. Usually if a process 
+requests for a resource and it's not available, then the process waits for it. But, there are three scenarios where 
+this waiting process never succeds, which is *deadlock*, *livelock*, and *starvation*. More info on these scenarios 
+can be read in this useful article!
