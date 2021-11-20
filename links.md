@@ -129,3 +129,12 @@ Many times in Operating System, more than one process may compete for a finite s
 requests for a resource and it's not available, then the process waits for it. But, there are three scenarios where 
 this waiting process never succeds, which is *deadlock*, *livelock*, and *starvation*. More info on these scenarios 
 can be read in this useful article!
+
+# Linux From Scratch
+- [Linux from Scratch First Impressions: Waste Of Time?](https://youtu.be/1eOdaXS-wVE)<br>
+Now some of you that have done the Week 8-10 assignments of os212 might be wondering, with all that time you wasted trying to 
+build linux from scratch and compiling all those packages, was it really worth it? to give a slight answer you might
+want to check out this video about LFS!
+- [8 Tools to Easily Create a Custom Linux Distro](https://www.maketecheasier.com/6-tools-to-easily-create-your-own-custom-linux-distro/)<br>
+If you think linux from scratch is worth it, i think you might want to fasten the process a little bit. These 8 tools 
+from this article will help you create your custom linux distro!
