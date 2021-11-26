@@ -130,6 +130,16 @@ requests for a resource and it's not available, then the process waits for it. B
 this waiting process never succeds, which is *deadlock*, *livelock*, and *starvation*. More info on these scenarios 
 can be read in this useful article!
 
+# I/O System
+- [Basics of OS (I/O Structure)](https://youtu.be/F18RiREDkwE)<br>
+One of the important jobs of an Operating System is to manage various I/O devices including mouse, 
+keyboards, touch pad, etc. An I/O system is required to take an application I/O request and send it to the physical device, then take whatever response comes back from the device and send it to 
+the application. But what are those I/O systems made of? watch this video about I/O Structure!
+- [Kernel I/O Subsystem in Operating System](https://www.geeksforgeeks.org/kernel-i-o-subsystem-in-operating-system/)<br>
+The kernel provides many services related to I/O. Several services such as scheduling, caching, spooling, 
+device reservation, and error handling are provided by kernel's I/O subsystem built on the hardware 
+and device-driver infrastructure. This article provides brief explanation on these kernel's services.
+
 # Linux From Scratch
 - [Linux from Scratch First Impressions: Waste Of Time?](https://youtu.be/1eOdaXS-wVE)<br>
 Now some of you that have done the Week 8-10 assignments of os212 might be wondering, with all that time you wasted trying to 
@@ -138,3 +148,6 @@ want to check out this video about LFS!
 - [8 Tools to Easily Create a Custom Linux Distro](https://www.maketecheasier.com/6-tools-to-easily-create-your-own-custom-linux-distro/)<br>
 If you think linux from scratch is worth it, i think you might want to fasten the process a little bit. These 8 tools 
 from this article will help you create your custom linux distro!
+- [Linux From Scratch 11.0 Guide](https://www.linuxfromscratch.org/lfs/view/11.0/index.html)<br>
+This guide is everything you need to build your LFS from the very scratch to a complete and running LFS. 
+You just need the patient to do all of it lol.

@@ -144,9 +144,9 @@ ZCZC W09 60 L80 Watching youtube
 ZCZC W09 15 L06 Read article about storage management and LFS
 ZCZC W09 30 L06 Searching articles and videos about LFS stuff
 ZCZC W09 60 L70 RPL Group Assignment
-ZCZC W09 10 L14 Assignment #04: Working on all Chapter 06
-ZCZC W09 10 L14 Assignment #04: Working on all Chapter 07
-ZCZC W09 10 L14 Assignment #04: Working on a few things in Chapter 08
+ZCZC W09 90 L14 Assignment #04: Working on all Chapter 06
+ZCZC W09 90 L14 Assignment #04: Working on all Chapter 07
+ZCZC W09 60 L14 Assignment #04: Working on a few things in Chapter 08
 ZCZC W09 15 L17 Assignment #07: Reviewing my peer links
 ZCZC W09 30 L16 Assignment #05: Updating my links
 ZCZC W09 30 L13 Assignment #03: Reading previous midterm problems
@@ -155,3 +155,26 @@ ZCZC W09 15 L18 Assignment #08: Updating my log
 ZCZC W09  5 L19 Assignment #09: Submit my Week 08 & 09 Assignments
 ZCZC W09 30 L70 MPPI and DAA Scele Forum
 ZCZC W09 60 L70 LK and Group Project Sister
+ZCZC W10 90 L02 Zoom Class
+ZCZC W10 30 L05 Quiz Week 10
+ZCZC W10 60 L80 Watching youtube
+ZCZC W10 15 L06 Read article about I/O system
+ZCZC W10 30 L06 Searching articles and videos about LFS stuff
+ZCZC W10 60 L70 RPL Group Assignment
+ZCZC W10 90 L14 Assignment #04: Chapter 08 part 1
+ZCZC W10 90 L14 Assignment #04: Chapter 08 part 2
+ZCZC W10 90 L14 Assignment #04: Chapter 08 part 3
+ZCZC W10 30 L13 Assignment #03: Reading previous midterm problems
+ZCZC W10 60 L73 Playing games with friends
+ZCZC W10 90 L14 Assignment #04: Chapter 08 part 4
+ZCZC W10 90 L14 Assignment #04: Chapter 08 part 5
+ZCZC W10 90 L14 Assignment #04: Chapter 08 part 6
+ZCZC W10 90 L14 Assignment #04: Chapter 08 done
+ZCZC W10 30 L11 Assignment #01: Read OSC10
+ZCZC W10 20 L12 Assignment #02: trying out demos
+ZCZC W10 15 L17 Assignment #07: Reviewing my peer links
+ZCZC W10 30 L16 Assignment #05: Updating my links
+ZCZC W10 15 L18 Assignment #08: Updating my log
+ZCZC W10  5 L19 Assignment #09: Submit my Week 10 Assignments
+ZCZC W10 30 L70 MPPI and DAA Scele Forum
+ZCZC W10 60 L70 LK and Group Project Sister
